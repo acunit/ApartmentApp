@@ -31,7 +31,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'textacular'
+gem 'paperclip'
 gem 'rspec-rails'
 gem 'chromedriver-helper'
 gem 'underscore-rails'
